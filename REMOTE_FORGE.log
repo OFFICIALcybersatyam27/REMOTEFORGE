@@ -1,0 +1,33 @@
+2026-07-26 18:42:01,021 - DEBUG - Initializing RemoteForge Core
+2026-07-26 18:42:01,043 - DEBUG - Loading configuration
+2026-07-26 18:42:01,057 - DEBUG - Verifying runtime environment
+2026-07-26 18:42:01,072 - DEBUG - Loading Device Manager
+2026-07-26 18:42:01,084 - DEBUG - Loading Connection Engine
+2026-07-26 18:42:01,097 - DEBUG - Loading Security Module
+2026-07-26 18:42:01,109 - DEBUG - Loading Command Interface
+2026-07-26 18:42:01,121 - DEBUG - Loading Plugin Manager
+2026-07-26 18:42:01,136 - DEBUG - Loading Logger
+2026-07-26 18:42:01,149 - DEBUG - Finalizing startup...
+2026-07-26 18:42:01,201 - INFO -
+
+██████╗ ███████╗███╗   ███╗ ██████╗ ████████╗███████╗
+██╔══██╗██╔════╝████╗ ████║██╔═══██╗╚══██╔══╝██╔════╝
+██████╔╝█████╗  ██╔████╔██║██║   ██║   ██║   █████╗
+██╔══██╗██╔══╝  ██║╚██╔╝██║██║   ██║   ██║   ██╔══╝
+██║  ██║███████╗██║ ╚═╝ ██║╚██████╔╝   ██║   ███████╗
+╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝ ╚═════╝    ╚═╝   ╚══════╝
+
+        ⚡ REMOTEFORGE v1.0 ⚡
+      Device Control Toolkit
+
+        Author  : OFFICIAL_cyber_satyam27
+        GitHub  : https://github.com/OFFICIALcybersatyam27
+        YouTube : https://youtube.com/@official_cyber_satyam27
+
+2026-07-26 18:42:03,018 - DEBUG - Device manager initialized
+2026-07-26 18:42:03,126 - INFO  - Scanning for authorized devices...
+2026-07-26 18:42:03,487 - INFO  - Waiting for device connection...
+2026-07-26 18:42:04,201 - INFO  - RemoteForge is ready.
+
+2026-07-26 18:42:08,954 - INFO  - Shutting down RemoteForge...
+2026-07-26 18:42:08,956 - INFO  - Session ended. Goodbye!
