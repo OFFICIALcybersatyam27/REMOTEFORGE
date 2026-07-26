@@ -65,7 +65,6 @@ def clear_screen():
     os.system('cls' if os.name == 'nt' else 'clear')
 
     def show_banner():
-    """Display the RemoteForge banner."""
     banner = f"""
       .-.
     .'   `.       {color_text('RemoteForge v1.0', 'blue')}
