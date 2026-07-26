@@ -141,8 +141,8 @@ main() {
 
     echo -e "${GREEN}[+] Installation complete!${NC}"
     echo -e "${BLUE}===========================================${NC}"
-    echo -e "${YELLOW}To start RemoteForge Framework, simply type 'forge' in your terminal.
-    passwd : Remoteforge${NC}"
+    echo -e "${YELLOW}To start RemoteForge Framework, simply type 'ghost' in your terminal.
+    passwd : ghost${NC}"
     echo
 }
 
