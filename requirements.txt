@@ -1,0 +1,5 @@
+cryptography==39.0.1
+keyring==23.5.0
+tqdm==4.64.1
+keyrings.alt
+
